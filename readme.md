@@ -12,6 +12,6 @@ Listed below are the courses and their contents or highlights.
 - **[Operating Systems](os/):** C implementations for CPU scheduling, paging, threads, simple shell, etc.
 - **[Computer Vision](cv/):** Helping professor convert coursework to MATLAB w/ OpenMP. Canny edge detector, object classification, image mosaicking.
 ## Projects
-- **[Memory Game](memgame/):** Set of minigames designed to improve memory, for course on Interaction Design.
-- **[Across the Universe](universe/):** VR astronomical data visualizer, for course on Virtual Reality.
+- **[Memory Game](https://github.com/kmakmichael/memory_game):** Set of minigames designed to improve memory, for course on Interaction Design.
+- **[Across the Universe](https://github.com/kmakmichael/universe):** VR astronomical data visualizer, for course on Virtual Reality.
 - **[Senior Project](https://github.com/kmakmichael/uop_seniorproject):** Automated brake assist system for a campus golf cart.
