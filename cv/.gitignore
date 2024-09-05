@@ -1,0 +1,21 @@
+# c++ stuff
+*.o
+
+# CMake
+*.cmake
+Makefile
+CMakeFiles/
+CMakeCache.txt
+
+# images
+*/images/
+*.bmp
+*.ppm
+*.jpg
+*.png
+
+# Matlab
+*.asv
+
+# Report
+report.pdf

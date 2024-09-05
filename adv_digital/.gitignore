@@ -1,0 +1,12 @@
+# specific files
+example.asm
+
+# modelsim
+modelsim.ini
+vsim.wlf
+work/
+
+# reports
+*.pdf
+*.png
+*.zip

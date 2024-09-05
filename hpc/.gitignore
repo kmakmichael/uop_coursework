@@ -1,0 +1,17 @@
+# C
+*.o
+
+# image
+*.pgm
+
+# report
+*.zip
+
+# slurm stuff
+*.sh.*
+
+# vscode
+.vscode/
+
+# vim
+*.swp
